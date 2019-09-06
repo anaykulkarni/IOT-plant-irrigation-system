@@ -2,7 +2,7 @@
 
 ### An IOT-enabled plant Irrigation system implemented using NodeMCU(ESP8266) and Blynk App.
 
-#### This system allows you to water your garden plants using your smartphone and also keep track the soil moisture using the real-time moisture reading. Water is pumped using a 12 Volt submersible pump. The pump can be turned on/off using the app. The 'Auto Turn-Off' feature is enabled, it automatically turns off the pump when the moisture rises above a certian threshhold. The threshhold is preset to 50%.
+#### This system allows you to water your garden plants using your smartphone and also keep track the soil moisture using the real-time moisture reading. Water is pumped using a 12 Volt submersible pump. The pump can be turned on/off using the app. When the 'Auto Turn-Off' feature is enabled, it automatically turns off the pump when the moisture rises above a certain threshhold. The threshhold is preset to 50%.
 
 
 ![WhatsApp Image 2019-06-25 at 3 28 03 PM](https://user-images.githubusercontent.com/38681469/60090580-6fcef700-9760-11e9-808e-94511983b9a1.jpeg)
